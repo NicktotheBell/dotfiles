@@ -16,3 +16,5 @@ bind '"\e[B": history-search-forward'
 eval "$(starship init bash)"
 
 source /usr/share/bash-completion/bash_completion
+
+eval "$(thefuck --alias)"
