@@ -4,3 +4,5 @@
 	username = nicholasbell
 [core]
 	editor = nano
+[help]
+	autoCorrect = 1
