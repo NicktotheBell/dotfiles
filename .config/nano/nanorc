@@ -294,8 +294,8 @@ unbind M-T main
 bind ^T gotoline main
 bind ^T gotodir browser
 bind ^Y speller main
-bind M-U undo main
-bind M-R redo main
+bind ^Z undo main
+bind ^Y redo main
 bind ^U undo main
 bind ^E redo main
 set multibuffer
