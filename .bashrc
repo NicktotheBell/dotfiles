@@ -18,3 +18,5 @@ eval "$(starship init bash)"
 source /usr/share/bash-completion/bash_completion
 
 eval "$(thefuck --alias)"
+
+alias vi='vim'
