@@ -21,3 +21,6 @@ eval "$(thefuck --alias)"
 
 alias vi='vim'
 
+export MANPAGER="less -R --use-color -Dd+r -Du+b"
+alias grep='grep --color=auto'
+export LESS='-R --use-color -Dd+r$Du+b'
