@@ -1,6 +1,8 @@
 bash-completion
 cmatrix
 cowsay
+dosfstools
+exfatprogs
 figlet
 fortune-mod
 github-cli
@@ -12,12 +14,17 @@ lsof
 mc
 nano-syntax-highlighting
 neofetch
+ntfs-3g
+openssh
 pkgfile
 pkgstats
+sl
 speedtest-cli
 starship
 terminus-font
 thefuck
+traceroute
+udisks2
 usbmuxd
 xdg-user-dirs
 yadm
