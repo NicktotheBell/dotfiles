@@ -3,6 +3,7 @@ cmatrix
 cowsay
 dosfstools
 exfatprogs
+fastfetch
 figlet
 fortune-mod
 github-cli
@@ -13,7 +14,6 @@ lolcat
 lsof
 mc
 nano-syntax-highlighting
-neofetch
 ntfs-3g
 openssh
 pkgfile
