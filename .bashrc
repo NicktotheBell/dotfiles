@@ -18,6 +18,9 @@ bind '"\e[B": history-search-forward'
 # Enable Bash completion
 source /usr/share/bash-completion/bash_completion
 
+# Enable Starship Prompt
+eval "$(starship init bash)"
+
 # Enable TheFuck
 eval "$(thefuck --alias)"
 
@@ -30,6 +33,3 @@ alias grep='grep --color=auto'
 export LESS='-R --use-color -Dd+r$Du+b'
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-
-# Enable Starship Prompt
-eval "$(starship init bash)"
