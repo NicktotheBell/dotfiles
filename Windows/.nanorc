@@ -60,4 +60,5 @@ set atblanks
 set afterends
 
 # Enable Syntax Highlighting
-include "C:/Program Files/nano/syntax/*.nanorc"
+include /Users/nibell/AppData/Local/Microsoft/WinGet/Packages/okibcn.nano_Microsoft.Winget.Source_8wekyb3d8bbwe/syntax/*.nanorc
+include /Users/nibell/AppData/Local/Microsoft/WinGet/Packages/okibcn.nano_Microsoft.Winget.Source_8wekyb3d8bbwe/syntax/extra/*.nanorc
